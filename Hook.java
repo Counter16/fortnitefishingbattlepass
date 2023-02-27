@@ -12,7 +12,7 @@ public class Hook extends LakeObject
     //return strength;
   }
   public String say(){
-    return "You now have a hook";
+    return "You now have a hook!";
   }
 
 }

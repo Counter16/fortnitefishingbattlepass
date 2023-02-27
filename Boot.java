@@ -3,5 +3,7 @@
  */
 public class Boot extends LakeObject
 {
-
+    public String say(){
+        return "You now have a boot!";
+    }
 }

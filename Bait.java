@@ -3,5 +3,7 @@
  */
 public class Bait extends LakeObject
 {
-
+    public String say(){
+        return "You now have a bait!";
+    }
 }
